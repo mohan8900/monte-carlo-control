@@ -49,10 +49,10 @@ Q: The Q-table.
 axis: The axis along which to find the maximum value.
 
 ## MONTE CARLO CONTROL FUNCTION
-```
-Register Number: 212221240028
-Name: Meena .S
-```
+
+Register Number: 212221230064
+Name: A K MOHAN RAJ
+
 ```
 import numpy as np
 from tqdm import tqdm
